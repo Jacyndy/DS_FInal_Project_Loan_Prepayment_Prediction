@@ -1,4 +1,5 @@
 # DS_Final_Project_Loan_Prepayment_Prediction
+
 # Objectives
 Predicting the average number of days it will take to payObjective: Predict the age of loans to gain insights into early loan prepayment and customer behavior.
 
@@ -28,7 +29,7 @@ some of the relationships shown in the the notebook:
 # Results
 ![Results](images/results.png)
 
-# Interprtation
+# Interpretation
 Last payment amount the only variable with strong correlation with the loan age. 
 All features except three mentioned in the previous slide are highly significant.
 Insight:
