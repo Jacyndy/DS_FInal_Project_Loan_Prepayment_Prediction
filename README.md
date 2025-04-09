@@ -1,7 +1,7 @@
 # DS_Final_Project_Loan_Prepayment_Prediction
 
 # Objectives
-Predicting the average number of days it will take to payObjective: Predict the age of loans to gain insights into early loan prepayment and customer behavior.
+Predict the age of loans to gain insights into early loan prepayment and customer behavior.
 
 # Why It Matters
 Helps lenders anticipate borrower behavior.
