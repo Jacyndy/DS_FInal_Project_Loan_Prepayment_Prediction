@@ -9,9 +9,9 @@ Supports risk management.
 Improves prepayment forecasting.
 
 # Data Source and Variables
-Lending Club (from Kaggle).
-Target Variable - Loan age.
-Key Features - Loan amount, installment, total payment, last payment amount, purpose, home ownership, open accounts. 
+Dataset: Lending Club (from Kaggle).
+Target Variable: Loan age.
+Key Features: Loan amount, installment, total payment, last payment amount, purpose, home ownership, open accounts. 
 
 # Data Prep and Feature Engineering
 Handled missing values.
@@ -30,21 +30,16 @@ some of the relationships shown in the the notebook:
 ![Results](images/results.png)
 
 # Interpretation
-Last payment amount the only variable with strong correlation with the loan age. 
-All features except three mentioned in the previous slide are highly significant.
-Insight:
-Negative relationship: loan amount, interest rate, monthly installment, annual income, accounts open, purpose
+Last payment amount shows the strongest correlation with loan age.
+Most features are statistically significant.
+Negative relationships: loan amount, interest rate, monthly installment, annual income, open accounts, purpose.
 Positive relationship: home ownership.
 
 # Challenges and Future Works
 ## Challenges:
-Limited datasets.
-Runtime.
+Limited dataset size restricted deeper model training.
+Runtime constraints when experimenting with complex algorithms.
 ## Future Work:
 Consider time series analysis and extend model to include macroeconomic indicators.
 Deploy as a web app for real-time prediction to be used by underwriters.
 Combine with prepayment prediction for end-to-end forecasting.
-
-
-
-
