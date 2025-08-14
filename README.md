@@ -1,7 +1,7 @@
 # DS_Final_Project_Loan_Prepayment_Prediction
 
 # Objectives
-Predict the age of loans to gain insights into early loan prepayment and customer behavior.
+Predict the age of loans to better understand early prepayment patterns and borrower behavior.
 
 # Why It Matters
 Helps lenders anticipate borrower behavior.
